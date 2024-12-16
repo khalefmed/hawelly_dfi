@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093541118885",
+    "project_id": "dfi-prod",
+    "storage_bucket": "dfi-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093541118885:android:3a7c6f0f8cd91cc9921e4c",
+        "android_client_info": {
+          "package_name": "mr.next.hawelly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb65vpll6t-DHBHotAAP0vlBh1jEYCa-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
